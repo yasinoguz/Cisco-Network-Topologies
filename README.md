@@ -7,11 +7,11 @@ Each topology demonstrates different networking concepts such as static/dynamic 
 
 - **Description:**  
   A simple network with 3 routers and 3 switches. Each router is configured to route packets between different subnets.  
-  Dynamic routing protocols are implemented to allow routers to exchange route information. IP addressing and PC configurations are completed.
+  Static routing is used to manually define the network paths. IP addressing and PC configurations are completed.
 
 - **Key Features:**
   - 3 Routers & 3 Switches
-  - Dynamic routing (e.g., RIP or OSPF)
+  - Static routing between routers
   - Router and Switch interface configuration
   - PC IP addressing and connectivity testing
 
