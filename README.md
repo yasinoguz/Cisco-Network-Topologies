@@ -16,7 +16,7 @@ Each topology demonstrates different networking concepts such as static/dynamic 
   - PC IP addressing and connectivity testing
 
 - **Preview:**  
-  ![Topology 1 Screenshot](images/genel1.png)
+  ![Topology 1 Screenshot](images/genel2.png)
 
 ---
 
@@ -34,7 +34,7 @@ Each topology demonstrates different networking concepts such as static/dynamic 
   - WAN & LAN integration
 
 - **Preview:**  
-  ![Topology 2 Screenshot](images/genel2.png)
+  ![Topology 2 Screenshot](images/genel1.png)
 
 ---
 
